@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "pull_request": "bogy0/peril-test@dangerfiles/pr.js",
+    "issues": "bogy0/peril-test@dangerfiles/issue.js"
+  }
+}
