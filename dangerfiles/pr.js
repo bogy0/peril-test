@@ -1,3 +1,3 @@
-import {message} from "danger"
+import { warn } from "danger";
 
-message("Hello from Peril on your PR.")
+warn("Hello from Peril on your PR.");
